@@ -1,6 +1,6 @@
-# React-Component-Lib-Visualisation
+# React web application template
 
-This project is attempting to render the same page using different component libraries (Material UI, Material You, Ant, etc...) with the same data to compare how it looks.\
+This project is a template for me to use rather than bootstrap it every time I make a new project.\
 Uses Rematch for the central storage, React-router to select the pages.
 
 ## Getting Started with Create React App
